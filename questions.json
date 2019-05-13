@@ -1,0 +1,123 @@
+{
+   "response_code":0,
+   "results":[
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Hola",
+         "correct_answer":"4",
+         "incorrect_answers":[
+            "1",
+            "5",
+            "2"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Hola",
+         "correct_answer":"Germany",
+         "incorrect_answers":[
+            "Austria",
+            "Armenia",
+            "Belgium"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"boolean",
+         "difficulty":"easy",
+         "question":"Hola",
+         "correct_answer":"True",
+         "incorrect_answers":[
+            "False"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Hola",
+         "correct_answer":"Cocaine",
+         "incorrect_answers":[
+            "Conan O&#039;Brien",
+            "Cobalt(II) carbonate",
+            "Coconut cream pie"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"Hola",
+         "correct_answer":"Bass Guitar",
+         "incorrect_answers":[
+            "Drums",
+            "Guitar",
+            "Keyboards"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"hola",
+         "correct_answer":"Take off all your clothes",
+         "incorrect_answers":[
+            "Take a cool shower",
+            "Drink some water",
+            "Go skinny dipping"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"hola",
+         "correct_answer":"Nevermind",
+         "incorrect_answers":[
+            "Bleach",
+            "In Utero",
+            "Incesticide"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"hola",
+         "correct_answer":"Jamie Foxx",
+         "incorrect_answers":[
+            "Alec Baldwin",
+            "Dwayne Johnson",
+            " Bruce Willis"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"hola",
+         "correct_answer":"Panic! At the Disco",
+         "incorrect_answers":[
+            "Twenty One Pilots",
+            "My Chemical Romance",
+            "Fall Out Boy"
+         ]
+      },
+      {
+         "category":"Matematicas",
+         "type":"multiple",
+         "difficulty":"easy",
+         "question":"hola",
+         "correct_answer":"22, A Million",
+         "incorrect_answers":[
+            "Bon Iver, Bon Iver",
+            "Blood Bank EP",
+            "For Emma, Forever Ago"
+         ]
+      }
+   ]
+}

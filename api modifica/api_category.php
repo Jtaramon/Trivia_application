@@ -1,0 +1,16 @@
+{  
+    "trivia_categories":[  
+       {  
+          "id":1,
+          "name":"Matematicas"
+       },
+       {  
+          "id":2,
+          "name":"Fisica"
+       },
+       {  
+          "id":3,
+          "name":"Ciencias"
+       }
+    ]
+ }
